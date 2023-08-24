@@ -5,7 +5,7 @@
 <img src="https://github.com/ClaudiuT03/Book_Store.git">
 
 ### Aplicatie live
-* Puteti accesa site-ul direct din link urmator: <a href="https://dj-bookstore.onrender.com/" target="_blank" >Deployed App</a> (little note below)
+* Puteti accesa site-ul direct din link urmator: <a href="https://dj-bookstore.onrender.com/" target="_blank" >Deployed App</a>
 
 (Nota: pentru ca este un site gazduit pe o platforma gratuita, incarcarea siteului poate dura pana la 30 de secunde, insa aplicatia poate fi testat si pe plan local
 ).
