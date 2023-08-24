@@ -30,9 +30,10 @@
 <hr>
 
 ## Despre aplicatie
-Aceasta librarie online contine mai multe carti care pot fi achizitionate prin intermediul a 2 modalitati de plata: Ppaypal si cu cardul de credit. De asemenea carti pot fi cumparata atat ca si vizitator cat si ca user autentificat.
+Aceasta librarie online contine mai multe carti care pot fi achizitionate prin intermediul a 2 modalitati de plata: paypal si cu cardul de credit. De asemenea carti pot fi cumparate doar daca userul este autentificat.
 
-De asemenea, inainte de a achizitiona orice carte veti fi directionati catre pagina de autentificare sau de a cumpara. Aplicatia va oferi informatii si despre disponibilitatea cartii pe stoc.
+De asemenea, inainte de a finaliza o comanda, veti fi directionati catre pagina de autentificare. Aplicatia va oferi informatii si despre disponibilitatea cartiilor pe stoc.
+
 ## Get_Started
 
  Pentru ca aplicatia sa functioneze, este necesar sa parcugem cativa pasi:
