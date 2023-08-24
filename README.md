@@ -30,7 +30,7 @@
 <hr>
 
 ## Despre aplicatie
-Aceasta librarie online contine mai multe carti care pot fi achizitionate prin intermediul a 2 modalitati de plata: paypal si cu cardul de credit. De asemenea carti pot fi cumparate doar daca userul este autentificat.
+Aceasta librarie online contine mai multe carti care pot fi achizitionate prin intermediul a 2 modalitati de plata: paypal si cu cardul de debit. De asemenea carti pot fi cumparate doar daca userul este autentificat.
 
 De asemenea, inainte de a finaliza o comanda, veti fi directionati catre pagina de autentificare. Aplicatia va oferi informatii si despre disponibilitatea cartiilor pe stoc.
 
