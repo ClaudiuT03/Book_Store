@@ -1,12 +1,8 @@
-<p id ="top" align="center">
-  <img src="https://github.com/YashMarmat/Pages-App-django/blob/master/templates/django bookstore logo.png" width="90%">
-</p>
-
 
 # Django-Biblioteca online
 <p>O biblioteca online ce permite achizitia de carti online </p>
 
-<img src="https://github.com/YashMarmat/Pages-App-django/blob/master/templates/dj-ecom-bstore-pic2.png?raw=true">
+<img src="https://github.com/ClaudiuT03/Book_Store.git">
 
 ### Aplicatie live
 * Puteti accesa site-ul direct din link urmator: <a href="https://dj-bookstore.onrender.com/" target="_blank" >Deployed App</a> (little note below)
